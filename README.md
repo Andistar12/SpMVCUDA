@@ -8,5 +8,5 @@ The program takes three CLI arguments: `matrix`, `vector`, and `result`. `matrix
 
 ## Citations
 
-* T. G. Kolda, B. W. Bader. Tensor Decompositions and Applications. SIAM Review, Vol. 51, No. 3, pp. 455-500, 2009. https://doi.org/10.1137/07070111X
+* N. Bell and M. Garland, "Implementing sparse matrix-vector multiplication on throughput-oriented processors," Proceedings of the Conference on High Performance Computing Networking, Storage and Analysis, Portland, OR, 2009, pp. 1-11, doi: 10.1145/1654059.1654078.
 * Jee W. Choi, Amik Singh, and Richard W. Vuduc. 2010. Model-driven autotuning of sparse matrix-vector multiply on GPUs. SIGPLAN Not. 45, 5 (May 2010), 115–126. DOI:https://doi.org/10.1145/1837853.1693471
